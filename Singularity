@@ -21,7 +21,7 @@ Author "Randall Cab White - rcwhite@stanford.edu"
   libcairo2 libcairo2-dev libpng-dev libpng*-dev libturbojpeg0-dev libpango1.0-dev libpangocairo-1.0-0 ghostscript \
    librsvg2-2 librsvg2-common librsvg2-dev freeglut3-dev fontconfig libfontconfig1-dev
 
-
+######
 
 %environment
   export IMAGE_NAME="graphviz_container"
