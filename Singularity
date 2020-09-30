@@ -24,5 +24,5 @@ Author "Randall Cab White - rcwhite@stanford.edu"
 
 
 %environment
-  export IMAGE_NAME="tesseract_container"
+  export IMAGE_NAME="graphviz_container"
 %runscript
